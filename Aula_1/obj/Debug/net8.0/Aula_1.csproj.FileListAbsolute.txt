@@ -1,0 +1,14 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\bin\Debug\net8.0\Aula_1.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\bin\Debug\net8.0\Aula_1.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\bin\Debug\net8.0\Aula_1.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\bin\Debug\net8.0\Aula_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\bin\Debug\net8.0\Aula_1.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\refint\Aula_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\Aula_1.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_1\obj\Debug\net8.0\ref\Aula_1.dll
