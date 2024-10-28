@@ -1,3 +1,13 @@
+// Exercício 1: Calculadora Financeira
+// •	Crie uma calculadora financeira que:
+// o	Receba um valor inicial e um tipo de investimento (1 - Poupança, 2 - Renda Fixa, 3 - Ações).
+// o	Para cada tipo de investimento, aplique uma taxa de rendimento diferente:
+// 	    Poupança: 3% ao ano
+// 	    Renda Fixa: 5% ao ano
+// 	Ações: cálculo de 10% ao ano, mas com uma chance de perda de 5% (use uma estrutura condicional).
+// o	Pergunte quantos anos o usuário deseja investir e, no final, exiba o saldo final estimado.
+
+
 using System;
 
 namespace Aula_3
