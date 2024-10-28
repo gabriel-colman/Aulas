@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\bin\Debug\net8.0\Aula_3.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\bin\Debug\net8.0\Aula_3.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\bin\Debug\net8.0\Aula_3.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\bin\Debug\net8.0\Aula_3.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\bin\Debug\net8.0\Aula_3.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\refint\Aula_3.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\Aula_3.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_3\obj\Debug\net8.0\ref\Aula_3.dll
