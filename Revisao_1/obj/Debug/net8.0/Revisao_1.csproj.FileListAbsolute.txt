@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\bin\Debug\net8.0\Revisao_1.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\bin\Debug\net8.0\Revisao_1.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\bin\Debug\net8.0\Revisao_1.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\bin\Debug\net8.0\Revisao_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\bin\Debug\net8.0\Revisao_1.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\refint\Revisao_1.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\Revisao_1.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Revisao_1\obj\Debug\net8.0\ref\Revisao_1.dll
