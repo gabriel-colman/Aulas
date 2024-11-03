@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_5\\Aula_5.csproj",
-      "projectName": "Aula_5",
-      "projectPath": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_5\\Aula_5.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_6\\Aula_6.csproj",
+      "projectName": "Aula_6",
+      "projectPath": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_6\\Aula_6.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_5\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Documents\\Aula\\Digix\\Codigo\\Aula_6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
