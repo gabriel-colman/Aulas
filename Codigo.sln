@@ -12,6 +12,12 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_4", "Aula_4\Aula_4.csproj", "{2930212e-8b88-4775-b5fc-4a4fa63ad6d3}"
 EndProject
 
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5", "Aula_5\Aula_5.csproj", "{41f73589-b8fa-4e89-850d-464558ca9092}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6", "Aula_6\Aula_6.csproj", "{c4a90c0f-384a-4738-9f9a-8ec8ca488762}"
+EndProject
+
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
