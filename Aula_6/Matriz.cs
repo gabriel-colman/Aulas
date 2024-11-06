@@ -28,5 +28,7 @@ public class Matriz
             }
             Console.WriteLine();
         }
+        // Resultado fica assim:
+
     }
 }
