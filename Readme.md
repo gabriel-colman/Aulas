@@ -8,6 +8,32 @@ Foi estudado a estrutura de um programa em C#, utilização de variáveis e tipo
 
 Foi estudado a entrada de dados pelo teclado, conversão de tipos de dados, operadores aritméticos, operadores de comparação e operadores lógicos.
 
+## Aula 3
+
+Foi estudado a estrutura condicional `if`, `else if`, `else`, 
+`Switch Case`  e operador ternário.
+
+## Aula 4
+
+Foi estudado a estrutura de repetição `for`, `while`, `do while` e `foreach`.
+
+## Aula 5
+
+Foi estudado a estrutura de Vetores, como declarar, inicializar e acessar os elementos de um vetor.
+
+## Aula 6
+
+Foi estudado a estrutura de Matrizes, como declarar, inicializar e acessar os elementos de uma matriz.
+
+## Aula 7
+
+Foi estudado de matriz tridimensional, como declarar, inicializar e acessar os elementos de uma matriz tridimensional.
+
+## Aula 8
+
+Foi estudado a estrutura de Funções, como declarar, chamar e retornar valores de uma função. Seus tipos de funções, funções sem retorno, funções com retorno e funções com parâmetros.
+
+
 # Explicação da estrutura do projeto
 
 ### Entendendo o `Codigo.sln`
