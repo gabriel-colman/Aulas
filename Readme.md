@@ -33,6 +33,9 @@ Foi estudado de matriz tridimensional, como declarar, inicializar e acessar os e
 
 Foi estudado a estrutura de Funções, como declarar, chamar e retornar valores de uma função. Seus tipos de funções, funções sem retorno, funções com retorno e funções com parâmetros.
 
+## Aula 9
+
+Continuação da função, foi estudado a passagem de parâmetros por referência e por valor.
 
 # Explicação da estrutura do projeto
 
