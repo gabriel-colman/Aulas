@@ -11,13 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_3", "Aula_3\Aula_3.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_4", "Aula_4\Aula_4.csproj", "{2930212e-8b88-4775-b5fc-4a4fa63ad6d3}"
 EndProject
-
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_5", "Aula_5\Aula_5.csproj", "{41f73589-b8fa-4e89-850d-464558ca9092}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_6", "Aula_6\Aula_6.csproj", "{c4a90c0f-384a-4738-9f9a-8ec8ca488762}"
 EndProject
-
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios", "Desafios\Desafios.csproj", "{A12B943D-88C3-4C64-B62A-3F7FE94B7E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_10", "Aula_10\Aula_10.csproj", "{A31B42FF-C911-40C8-9380-9F77316E146C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +29,14 @@ Global
 		{5FC0701C-DC62-4D81-A88F-37374EC2362B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FC0701C-DC62-4D81-A88F-37374EC2362B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FC0701C-DC62-4D81-A88F-37374EC2362B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A12B943D-88C3-4C64-B62A-3F7FE94B7E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A12B943D-88C3-4C64-B62A-3F7FE94B7E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A12B943D-88C3-4C64-B62A-3F7FE94B7E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A12B943D-88C3-4C64-B62A-3F7FE94B7E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A31B42FF-C911-40C8-9380-9F77316E146C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A31B42FF-C911-40C8-9380-9F77316E146C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A31B42FF-C911-40C8-9380-9F77316E146C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A31B42FF-C911-40C8-9380-9F77316E146C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
