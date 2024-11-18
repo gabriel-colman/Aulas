@@ -24,7 +24,12 @@
 
   <!-- Forca Build mesmo conflitos  -->
   <ContinueOnError>true</ContinueOnError>
+
+  <OutputPath>bin\Debug\</OutputPath>
     
   </PropertyGroup>
 
 </Project>
+
+dotnet restore
+dotnet build

@@ -15,7 +15,7 @@ namespace Aula_11
             {
                 for (int j = 0; j < vetor.Length - 1; j++)
                 {
-                    if (vetor[j] > vetor[j + 1])
+                    if (vetor[j] < vetor[j + 1])
                     {
                         aux = vetor[j];
                         vetor[j] = vetor[j + 1];
