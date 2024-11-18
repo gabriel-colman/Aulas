@@ -16,8 +16,14 @@
   <WarningsAsErrors></WarningsAsErrors>
 
   <!-- Erro relacionado ao acesso -->
-  <NoWarn>CS2001</NoWarn>
-    
+  <NoWarn>CS2012</NoWarn>
+
+  <!-- Erro relacionada ao XML -->
+  <GenerateDocumentationFile>false</GenerateDocumentationFile>
+
+
+  <!-- Forca Build mesmo conflitos  -->
+  <ContinueOnError>true</ContinueOnError>
     
   </PropertyGroup>
 
