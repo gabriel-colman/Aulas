@@ -6,10 +6,17 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
+  <!-- Desabilite a Geração de Informações do Assembly -->
   <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
   <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
   <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
   <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+
+  <!-- Ignora erro de caminho Diretamente -->
+  <WarningsAsErrors></WarningsAsErrors>
+
+  <!-- Erro relacionado ao acesso -->
+  <NoWarn>CS2001</NoWarn>
     
     
   </PropertyGroup>
