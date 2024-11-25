@@ -1,30 +1,27 @@
 using System;
-using System.Collections.Generic;
-using System.ComponentModel.Design;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Aula_14
+namespace Exemplo12ListPilhFilaENCADEADA
 {
-    public class ListaEncadeada
+    class Lista
     {
+        // Estrutura de um nó (Node) para armazenar valores e apontar para o próximo nó
         class Node
         {
-            public int Valor;
-            public Node? Proximo;
+            public int Valor;      // Valor armazenado no nó
+            public Node? Proximo;  // Referência para o próximo nó na lista encadeada
         }
 
+        // Variável para armazenar o início da lista encadeada
+        private Node? inicio = null;
 
-        static Node? inicio = null;
-
-        static void Inserir(int valor)
+        // Função para inserir um valor no final da lista
+        public void Inserir(int valor)
         {
-            // Cria um novo nó com valor fornecedio e aponta para o início
-            Node novonode = new Node { Valor = valor, Proximo = inicio };
+            Node novoNode = new Node { Valor = valor, Proximo = null };
 
             if (inicio == null)
             {
-                inicio = novonode;
+                inicio = novoNode;
             }
             else
             {
@@ -33,41 +30,45 @@ namespace Aula_14
                 {
                     atual = atual.Proximo;
                 }
-                atual.Proximo = novonode;
+                atual.Proximo = novoNode;
             }
         }
 
-        static void Excluir(int valor)
+        // Função para excluir um valor específico da lista
+        public void Excluir(int valor)
         {
-            if (inicio == null)
-            {
-                return;
-            }
+            if (inicio == null) return;
 
             if (inicio.Valor == valor)
             {
                 inicio = inicio.Proximo;
-                return; // Sai do método
+                return;
             }
 
-            // Percorre a lista proculando o valor
             Node atual = inicio;
-            while (atual.Proximo != null)
+            while (atual.Proximo != null && atual.Proximo.Valor != valor)
             {
-                if (atual.Proximo.Valor == valor)
-                {
-                    atual.Proximo = atual.Proximo.Proximo;
-                    return;
-                }
                 atual = atual.Proximo;
+            }
+
+            if (atual.Proximo != null)
+            {
+                atual.Proximo = atual.Proximo.Proximo;
             }
         }
 
-        static void Listar()
+        // Função para listar todos os valores da lista
+        public void Listar()
         {
+            if (inicio == null)
+            {
+                Console.WriteLine("A lista está vazia.");
+                return;
+            }
+
             Node? atual = inicio;
-            System.Console.WriteLine("Valores da lista:");
-           
+            Console.WriteLine("Elementos na lista:");
+
             while (atual != null)
             {
                 Console.WriteLine(atual.Valor);
@@ -75,17 +76,23 @@ namespace Aula_14
             }
         }
 
+        // Função principal para execução do programa
         static void Main()
         {
-            Inserir(1);
-            Inserir(2);
-            Inserir(3);
-            Inserir(4);
-            Inserir(5);
-            
-            Listar();
-            Excluir(3);
-            Listar();
+            Lista lista = new Lista();
+
+            // Insere valores na lista
+            lista.Inserir(10);
+            lista.Inserir(20);
+            lista.Inserir(30);
+
+            // Lista os valores da lista
+            lista.Listar();
+
+            // Exclui o valor 20 e lista novamente para verificar a remoção
+            Console.WriteLine("Excluir 20");
+            lista.Excluir(20);
+            lista.Listar();
         }
     }
 }
