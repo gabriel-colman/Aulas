@@ -76,6 +76,29 @@ namespace Exemplo12ListPilhFilaENCADEADA
             }
         }
 
+        // Inserir em posição específica
+        public void InserirPosicao(int valor, int posicao)
+        {
+            Node novoNode = new Node { Valor = valor, Proximo = null };
+
+            if (inicio == null)
+            {
+                inicio = novoNode;
+            }
+            else
+            {
+                Node atual = inicio;
+                int i = 0;
+                while (atual.Proximo != null && i < posicao - 1)
+                {
+                    atual = atual.Proximo;
+                    i++;
+                }
+                novoNode.Proximo = atual.Proximo;
+                atual.Proximo = novoNode;
+            }
+        }
+
         // Função principal para execução do programa
         static void Main()
         {
