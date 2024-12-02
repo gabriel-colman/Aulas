@@ -73,7 +73,8 @@ namespace Exemplo12ListPilhFilaENCADEADA
             while (outraFila.inicio != null)
             {
                 int? valor = outraFila.Desenfileirar();
-                if (valor.HasValue)
+                if (valor.HasValue) // Se o valor não for nulo
+                // if (valor != null) // Alternativa para a linha anterior
                 {
                     Enfileirar(valor.Value);
                 }
