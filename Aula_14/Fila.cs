@@ -1,101 +1,117 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Aula_14
+namespace Exemplo12ListPilhFilaENCADEADA
 {
-    public class Fila
+    class Fila
     {
+        // Estrutura de um nó na fila
         class Node
         {
-            public int valor;
-            public Node? proximo;
+            public int Valor;       // Valor armazenado no nó
+            public Node? Proximo;   // Referência para o próximo nó
         }
 
-        static Node? inicio = null;
-        static Node? fim = null;
+        private Node? inicio = null;
+        private Node? fim = null;
 
-        static int contador = 0;
-
-        // Enfileirar é acrescentar um elemento no final da fila
-        static void Enfileirar(int valor)
+        // Função para enfileirar um novo valor no fim da fila
+        public void Enfileirar(int valor)
         {
-            // Cria um novo no com valor fornecido
-            Node novoNode = new Node { valor = valor, proximo = null };
+            Node novoNode = new Node { Valor = valor, Proximo = null };
 
-            // Se a fila estiver vazia, o novo nó é o início da fila
             if (inicio == null)
             {
                 inicio = novoNode;
+                fim = novoNode;
             }
             else
             {
-                // Se a fila não estiver vazia, o novo nó é o próximo do último nó
-                fim!.proximo = novoNode; // fim!.proximo é seguro pois sabemos que fim não é nulo
+                fim.Proximo = novoNode;
+                fim = novoNode;
             }
-
-            // Atualiza o fim da fila
-            fim = novoNode;
-
-            // Incrementa o contador
-            contador++;
         }
 
-        // Desenfileirar é remover o elemento do início da fila
-        static void Desenfileirar()
+        // Função para desenfileirar o valor do início da fila
+        public int? Desenfileirar()
         {
             if (inicio == null)
             {
-                Console.WriteLine("Fila vazia!");
-                return;
+                Console.WriteLine("A fila está vazia!");
+                return null;
             }
 
-            Console.WriteLine($"Desenfileirando {inicio.valor}");
+            int valor = inicio.Valor;
+            inicio = inicio.Proximo;
 
-            // Atualiza o início da fila
-            inicio = inicio.proximo;
-
-            // Se a fila ficou vazia, atualiza o fim da fila
             if (inicio == null)
-            {
                 fim = null;
-            }
 
-            // Decrementa o contador
-            contador--;
+            return valor;
         }
 
-        // Listar a Fila
-        static void Listar()
+        // Função para listar todos os valores na fila
+        public void Listar()
         {
             if (inicio == null)
             {
-                Console.WriteLine("Fila vazia!");
+                Console.WriteLine("A fila está vazia!");
                 return;
             }
-            System.Console.WriteLine("Listando a Fila");
+
+            Console.WriteLine("Elementos na fila (do início ao fim):");
             Node? atual = inicio;
             while (atual != null)
             {
-                Console.WriteLine(atual.valor);
-                atual = atual.proximo;
+                Console.WriteLine(atual.Valor);
+                atual = atual.Proximo;
             }
         }
 
+        // Função para inserir todos os valores de outra fila na fila atual
+        public void InserirDeOutraFila(Fila outraFila)
+        {
+            while (outraFila.inicio != null)
+            {
+                int? valor = outraFila.Desenfileirar();
+                if (valor.HasValue)
+                {
+                    Enfileirar(valor.Value);
+                }
+            }
+        }
+    }
+
+    class Program
+    {
         static void Main()
         {
-            Enfileirar(10);
-            Enfileirar(20);
-            Enfileirar(30);
-            Listar();
-            Desenfileirar();
-            Listar();
-            Desenfileirar();
-            Listar();
-            Desenfileirar();
-            Listar();
-            Desenfileirar();
+            // Criando duas filas
+            Fila fila1 = new Fila();
+            Fila fila2 = new Fila();
+
+            // Enfileirando valores na primeira fila
+            fila1.Enfileirar(10);
+            fila1.Enfileirar(20);
+            fila1.Enfileirar(30);
+
+            Console.WriteLine("Fila 1 antes de adicionar elementos de Fila 2:");
+            fila1.Listar();
+
+            // Enfileirando valores na segunda fila
+            fila2.Enfileirar(40);
+            fila2.Enfileirar(50);
+
+            Console.WriteLine("Fila 2:");
+            fila2.Listar();
+
+            // Inserindo os valores de Fila 2 em Fila 1
+            fila1.InserirDeOutraFila(fila2);
+
+            Console.WriteLine("Fila 1 após adicionar elementos de Fila 2:");
+            fila1.Listar();
+
+            Console.WriteLine("Fila 2 após transferência:");
+            fila2.Listar();
         }
     }
 }
