@@ -39,6 +39,30 @@ namespace Aula_14
             topo = topo.proximo;
         }
 
+        // Reverter os Ponteiros
+        static void Reverter()
+        {
+            // Se a pilha estiver vazia ou tiver apenas um elemento
+            if (topo == null || topo.proximo == null)
+            {
+                return;
+            }
+            Node? anterior = null;
+            Node? atual = topo;
+            Node? proximo;
+
+            while (atual != null)
+            {
+                proximo = atual.proximo; // Salva o próximo nó
+                atual.proximo = anterior; // Inverte o ponteiro
+                anterior = atual; // Atualiza o anterior
+                atual = proximo; // Avança para o próximo nó
+            }
+
+            // Ajusta o topo da pilha
+            topo = anterior;
+        }
+
         // Listar a Pilha
         static void Listar()
         {
