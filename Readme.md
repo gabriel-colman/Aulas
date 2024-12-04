@@ -37,6 +37,41 @@ Foi estudado a estrutura de Funções, como declarar, chamar e retornar valores 
 
 Continuação da função, foi estudado a passagem de parâmetros por referência e por valor.
 
+## Aula 10
+
+Foi estudado Função Recursiva e a diferença entre função recursiva e função iterativa. Além disso, foi estudado a função de retorno de múltiplos valores.
+Também foi estudado variaveis implicitas, e o que elas são.
+Obs: Variaveis implicitas são variaveis que não precisam ser declaradas com o tipo de dado, pois o compilador consegue inferir o tipo de dado da variavel.
+
+## Aula 11
+
+Introdução de Algoritmos de Ordenação, foi estudado o algoritmo de ordenação como o Bubble Sort, Selection Sort e Insertion Sort.
+E quais são as vantagens e desvantagens de cada algoritmo, como o tempo de execução e a quantidade de comparações.
+
+## Aula 12
+
+Continuação de Algoritmos de Ordenação, foi estudado o algoritmo de ordenação como o Merge Sort, Quick Sort.
+E quais são as vantagens e desvantagens de cada algoritmo, como o tempo de execução e a quantidade de comparações.
+
+Além disso foi feito o exercicio ordenação de string usando ASCII.
+
+
+## Aula 13
+
+Foi ensinado a estrutura de Fila, Pilha e Lista Encadeada.
+E como implementar essas estruturas de dados em C#.
+
+## Aula 14
+
+Foi ensinado a estrutura de Fila, Pilha e Lista Duplamente Encadeada. E foi feito um exercicio de implementação de uma lista duplamente encadeada.
+
+# Agora irá começar aulas de Orientação a Objetos
+
+## Aula 15
+
+A introdução a Orientação a Objetos, foi estudado o que é uma classe, o que é um objeto, o que é um atributo e o que é um método.
+
+
 # Explicação da estrutura do projeto
 
 ### Entendendo o `Codigo.sln`
