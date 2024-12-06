@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\bin\Debug\net8.0\Aula_16_OO_Heranca.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\bin\Debug\net8.0\Aula_16_OO_Heranca.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\bin\Debug\net8.0\Aula_16_OO_Heranca.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\bin\Debug\net8.0\Aula_16_OO_Heranca.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\bin\Debug\net8.0\Aula_16_OO_Heranca.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\refint\Aula_16_OO_Heranca.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\Aula_16_OO_Heranca.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_16_OO_Heranca\obj\Debug\net8.0\ref\Aula_16_OO_Heranca.dll
