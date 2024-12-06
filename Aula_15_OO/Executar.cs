@@ -19,28 +19,28 @@ namespace Aula_15_OO
             // cachorro1.escrevaSaida();
 
             // Classe Padaria
-            Padaria padaria = new Padaria();
-            padaria.NomeAlimento = "Sonho";
-            padaria.Preco = 7.50;
-            padaria.Bebidas = "Café";
-            padaria.Doces = "Bolo de Cenoura";
-            padaria.DataValidade = DateTime.Now.AddDays(3);
+            // Padaria padaria = new Padaria();
+            // padaria.NomeAlimento = "Sonho";
+            // padaria.Preco = 7.50;
+            // padaria.Bebidas = "Café";
+            // padaria.Doces = "Bolo de Cenoura";
+            // padaria.DataValidade = DateTime.Now.AddDays(3);
             
-            // Exibindo os detalhes da encomenda
-            System.Console.WriteLine(padaria.EncomendaI());
+            // // Exibindo os detalhes da encomenda
+            // System.Console.WriteLine(padaria.EncomendaI());
 
-            // Criando uma lista de compras com nome e preco
-            List<(string NomeAlimento, double Preco)> listasCompras = new List<(string NomeAlimento, double Preco)>
-            {
-                ("Pao Frances", 5.98),
-                ("Bolo Cenoura", 20.50),
-                ("Coxinha", 4.50),
-                ("Suco Natural", 10.20)
-            };
+            // // Criando uma lista de compras com nome e preco
+            // List<(string NomeAlimento, double Preco)> listasCompras = new List<(string NomeAlimento, double Preco)>
+            // {
+            //     ("Pao Frances", 5.98),
+            //     ("Bolo Cenoura", 20.50),
+            //     ("Coxinha", 4.50),
+            //     ("Suco Natural", 10.20)
+            // };
 
-            // Caculando o total das cestas
-            double total = padaria.CestaCompras(listasCompras);
-            System.Console.WriteLine($"Total de cestas de compras R${total}");
+            // // Caculando o total das cestas
+            // double total = padaria.CestaCompras(listasCompras);
+            // System.Console.WriteLine($"Total de cestas de compras R${total}");
         }
     }
 }
