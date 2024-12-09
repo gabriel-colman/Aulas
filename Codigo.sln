@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_16_OO_Heranca", "Aula_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO", "Aula_17_OO\Aula_17_OO.csproj", "{10F01951-8FE9-4543-9FAE-E62C474F676B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Visibilidade", "Aula_17_OO_Visibilidade\Aula_17_OO_Visibilidade.csproj", "{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{10F01951-8FE9-4543-9FAE-E62C474F676B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F01951-8FE9-4543-9FAE-E62C474F676B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F01951-8FE9-4543-9FAE-E62C474F676B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
