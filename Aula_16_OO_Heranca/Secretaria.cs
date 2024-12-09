@@ -16,10 +16,10 @@ namespace Aula_16_OO_Heranca
         }
 
         // Metodo para calcular salario
-        public override double GetBonificacao()
-        {
-            return Salario * 0.05;
-        }
+        // public override double GetBonificacao()
+        // {
+        //     return Salario * 0.05;
+        // }
 
         // Metodo impirmir dados
         public override void ImprimirDados()
