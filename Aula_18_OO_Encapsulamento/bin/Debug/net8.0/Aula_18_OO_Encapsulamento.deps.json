@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_18_OO_Encapsulamento/1.0.0": {
+        "runtime": {
+          "Aula_18_OO_Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_18_OO_Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

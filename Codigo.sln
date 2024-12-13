@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO", "Aula_17_OO\Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Visibilidade", "Aula_17_OO_Visibilidade\Aula_17_OO_Visibilidade.csproj", "{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_18_OO_Encapsulamento", "Aula_18_OO_Encapsulamento\Aula_18_OO_Encapsulamento.csproj", "{3AE5D845-E050-46D5-B916-8538EE27E018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,10 @@ Global
 		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD3045CA-FCCC-4C21-88F5-48B4F4C78E34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE5D845-E050-46D5-B916-8538EE27E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE5D845-E050-46D5-B916-8538EE27E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE5D845-E050-46D5-B916-8538EE27E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE5D845-E050-46D5-B916-8538EE27E018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

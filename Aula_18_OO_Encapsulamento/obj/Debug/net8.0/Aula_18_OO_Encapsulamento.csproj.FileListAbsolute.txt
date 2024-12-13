@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\bin\Debug\net8.0\Aula_18_OO_Encapsulamento.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\bin\Debug\net8.0\Aula_18_OO_Encapsulamento.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\bin\Debug\net8.0\Aula_18_OO_Encapsulamento.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\bin\Debug\net8.0\Aula_18_OO_Encapsulamento.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\bin\Debug\net8.0\Aula_18_OO_Encapsulamento.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\refint\Aula_18_OO_Encapsulamento.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\Aula_18_OO_Encapsulamento.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_18_OO_Encapsulamento\obj\Debug\net8.0\ref\Aula_18_OO_Encapsulamento.dll
