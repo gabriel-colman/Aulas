@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_OO_Visibilidade", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_18_OO_Encapsulamento", "Aula_18_OO_Encapsulamento\Aula_18_OO_Encapsulamento.csproj", "{3AE5D845-E050-46D5-B916-8538EE27E018}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_18_OO_Exe", "Aula_18_OO_Exe\Aula_18_OO_Exe.csproj", "{2A71EC72-E100-4517-A182-9F2ECB15F7C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{3AE5D845-E050-46D5-B916-8538EE27E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AE5D845-E050-46D5-B916-8538EE27E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AE5D845-E050-46D5-B916-8538EE27E018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A71EC72-E100-4517-A182-9F2ECB15F7C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A71EC72-E100-4517-A182-9F2ECB15F7C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A71EC72-E100-4517-A182-9F2ECB15F7C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A71EC72-E100-4517-A182-9F2ECB15F7C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace Aula_18_OO_Encapsulamento
@@ -24,6 +25,20 @@ namespace Aula_18_OO_Encapsulamento
             // Vou imprimir todos eles
             // Imprimir pelo TOString
             Console.WriteLine(p.ToString());
+
+            // Algumas funnções para validar seus tipos e Propriedades
+            // A classe type representa o metadados de uma classe em tempo de execução
+            Type t = typeof(Produto); // Vai retornar o tipo da classe, 
+            Console.WriteLine(t.Name); // Vai retornar o nome da classe
+
+
+            // Vou mostrar todas as suas proprieadades
+            Console.WriteLine("Propriedades: ");
+            foreach (PropertyInfo prop in t.GetProperties())
+            {
+                // O PropertyInfo é uma classe que representa uma propriedade de um tipo
+                Console.WriteLine(prop.Name);
+            }
 
         }
     }
