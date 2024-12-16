@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula_19_OO_Interface/1.0.0": {
+        "runtime": {
+          "Aula_19_OO_Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula_19_OO_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

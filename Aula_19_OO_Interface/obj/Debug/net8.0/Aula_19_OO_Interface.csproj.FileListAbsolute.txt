@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\bin\Debug\net8.0\Aula_19_OO_Interface.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\bin\Debug\net8.0\Aula_19_OO_Interface.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\bin\Debug\net8.0\Aula_19_OO_Interface.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\bin\Debug\net8.0\Aula_19_OO_Interface.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\bin\Debug\net8.0\Aula_19_OO_Interface.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\refint\Aula_19_OO_Interface.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\Aula_19_OO_Interface.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_19_OO_Interface\obj\Debug\net8.0\ref\Aula_19_OO_Interface.dll
