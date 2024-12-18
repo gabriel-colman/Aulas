@@ -26,7 +26,10 @@ namespace Aula_20_OO_Relacoes.Exemplo
         public void Entrar (PortaCozinha portaCozinha)
         {
             // Aqui esta ocorrendo a relação de Agregação
-            Console.WriteLine("Entrou pela porta da cozinha" + portaCozinha.Cor);
+            Console.WriteLine("Entrou pela porta da cozinha" + portaCozinha.Cor +
+                              "Largura: " + portaCozinha.Largura +
+                              "Altura: " + portaCozinha.Altura +
+                              "Peso: " + portaCozinha.Peso);
         }
 
     }
