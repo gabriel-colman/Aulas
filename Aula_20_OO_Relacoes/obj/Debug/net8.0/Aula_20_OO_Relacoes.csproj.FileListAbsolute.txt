@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\bin\Debug\net8.0\Aula_20_OO_Relacoes.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\bin\Debug\net8.0\Aula_20_OO_Relacoes.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\bin\Debug\net8.0\Aula_20_OO_Relacoes.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\bin\Debug\net8.0\Aula_20_OO_Relacoes.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\bin\Debug\net8.0\Aula_20_OO_Relacoes.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\refint\Aula_20_OO_Relacoes.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\Aula_20_OO_Relacoes.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_20_OO_Relacoes\obj\Debug\net8.0\ref\Aula_20_OO_Relacoes.dll
