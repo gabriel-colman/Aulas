@@ -39,7 +39,7 @@ namespace Aula_17_OO
         // Outra forma de ImprimirDados
         public override void ImprimirDados()
         {
-            base.ImprimirDados();
+            // base.ImprimirDados();
             Console.WriteLine("Raio: " + Raio);
         }
     }
