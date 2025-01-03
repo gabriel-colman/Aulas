@@ -71,6 +71,48 @@ Foi ensinado a estrutura de Fila, Pilha e Lista Duplamente Encadeada. E foi feit
 
 A introdução a Orientação a Objetos, foi estudado o que é uma classe, o que é um objeto, o que é um atributo e o que é um método.
 
+## Aula 16
+
+Foi estudado sobre Objetos e Classes, juntamente com seus atributos e métodos. Ali também foi mostrado a função this, que é utilizada para referenciar o objeto atual.
+
+## Aula 16 OO
+
+Foi dado inicio ao estudo de Herança na qual uma classe pode herdar atributos e métodos de outra classe.
+Como o de Funcionário e Gerente, onde o Gerente herda os atributos e métodos da classe Funcionário.
+
+## Aula 17
+
+Foi estudado a herança, usando a uma classe abstrata, que é uma classe que não pode ser instanciada, mas pode ser herdada por outras classes.
+Que nem a classe Forma, que é uma classe abstrata que possui um método abstrato chamado CalcularArea, que é implementado nas classes filhas.
+Também foi ensinado a sobrescrita de métodos, que é quando um método da classe pai é sobrescrito na classe filha.
+Ta bem foi feito 2 exercicios de herança jutamente com classe abstrata.
+
+## Aula 17 OO
+
+Foi ensinado a visibilidade de atributos e métodos, que são os modificadores de acesso, como public, private, protected.
+E o polimorfismo, que é a capacidade de um objeto poder ser referenciado de várias formas, como por exemplo um objeto do tipo Gerente pode ser referenciado como Funcionário.
+
+## Aula 18
+
+Foi ensinado o encapsulamento, que é a técnica de esconder os detalhes de implementação de um objeto e exibir apenas o que é necessário para o usuário.
+
+## Aula 18 OO
+
+Foi feito um exercicio de encapsulamento, onde foi criado uma classe ContaBancaria, que possui os métodos de saque, deposito e transferência.
+
+## Aula 19
+
+Foi ensinado a interface, que é um contrato que define quais métodos uma classe deve implementar.
+Também foi feito um exercicio juntamente com o diagrama de classes utilizando interface.
+
+## Aula 19 OO
+
+Foi ensinado relações em UML como Agregação, Composição e Associação.
+E a diferença entre elas. Juntamente cmo suas aplicações.
+
+## Aula 20
+
+Foi feito exemplos e exercicios de Agregação, Composição e Associação.
 
 # Explicação da estrutura do projeto
 

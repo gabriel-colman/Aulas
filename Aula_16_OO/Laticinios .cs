@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace Aula_16_OO
 {
-    public class Laticinios 
+    public class Laticinios
     {
-                 public string Nome;  // Nome do laticínio
+        public string Nome;  // Nome do laticínio
         public double Preco; // Preço unitário
         public int Quantidade; // Quantidade em estoque
 
