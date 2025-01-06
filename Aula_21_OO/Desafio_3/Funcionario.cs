@@ -10,7 +10,7 @@ namespace Aula_21_OO.Desafio_3
         // Propridades autoimplementadas
         public string Nome { get; set; }
         public Endereco Endereco { get; set; }
-        public string CPF { get; set; }
+        public int CPF { get; set; }
         public string Telefone { get; set; }
         public double SalarioBase { get; set; }
 
