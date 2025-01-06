@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\bin\Debug\net8.0\Aula_21_OO.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\bin\Debug\net8.0\Aula_21_OO.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\bin\Debug\net8.0\Aula_21_OO.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\bin\Debug\net8.0\Aula_21_OO.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\bin\Debug\net8.0\Aula_21_OO.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\refint\Aula_21_OO.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\Aula_21_OO.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_21_OO\obj\Debug\net8.0\ref\Aula_21_OO.dll

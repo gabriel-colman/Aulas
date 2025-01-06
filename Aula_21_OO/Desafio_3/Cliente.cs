@@ -21,7 +21,7 @@ namespace Aula_21_OO.Desafio_3
         // Construtor
         // Aqui acontece a composição
         public Cliente(string nome, string rua, string cidade, 
-            string estado, int cep, string telefone, int cpf)
+            Estado estado, int cep, string telefone, int cpf)
         {
             Nome = nome;
             Endereco = new Endereco(rua, cidade, estado, cep);

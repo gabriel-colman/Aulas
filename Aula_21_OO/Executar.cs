@@ -19,7 +19,7 @@ namespace Aula_21_OO
 
             do
             {
-                Console.Clear();//Limpa a tela
+                // Console.Clear();//Limpa a tela
                 Console.WriteLine("1 - Cadastrar Cliente");
                 Console.WriteLine("2 - Cadastrar Produto");
                 Console.WriteLine("3 - Cadastrar Venda");
@@ -56,7 +56,7 @@ namespace Aula_21_OO
             } while (opcao != 6);
         }
 
-        
+
 
         public static void CadastrarCliente(List<Cliente> clientes)
         {
@@ -69,6 +69,16 @@ namespace Aula_21_OO
             Console.Write("Digite o Endereço: (Rua, Cidade, Estado, CEP)");
             string endereco = Console.ReadLine();
 
+
+            Console.Write("Digite o Estado: (sigla, ex: SP, MS) ");
+            string estado = Console.ReadLine();
+
+            if (!Enum.TryParse(estado, out Estado estadoEnum))
+            { // try parse tenta converter o valor de uma string para um enum
+                Console.WriteLine("Estado inválido");
+                return;
+            }
+
             Cliente cliente = new ClienteGold
             {
                 Nome = nome,
@@ -78,10 +88,11 @@ namespace Aula_21_OO
                 {
                     Rua = endereco.Split(", ")[0],
                     Cidade = endereco.Split(", ")[1],
-                    Estado = endereco.Split(", ")[2],
+                    Estado = estadoEnum,
                     CEP = int.Parse(endereco.Split(", ")[3])
                 }
             };
+            System.Console.WriteLine("Cliente cadastrado com sucesso!");
         }
 
         private static void CadastrarProduto(List<Produto> produtos, Estoque estoque)
@@ -94,8 +105,8 @@ namespace Aula_21_OO
             int codigo = int.Parse(Console.ReadLine());
             Console.Write("Digite o preço de custo: ");
             double precoCusto = double.Parse(Console.ReadLine());
-            Console.Write("Digite o Apelido: ");
-            string apelido = Console.ReadLine();
+            // Console.Write("Digite o Apelido: ");
+            // string apelido = Console.ReadLine();
             Console.Write("Digite se o produto é perecível: ");
             bool perecivel = bool.Parse(Console.ReadLine());
             Console.Write("Digite o preço final: ");
@@ -107,7 +118,7 @@ namespace Aula_21_OO
             Console.Write("=== Cadastro do Fornecedor ===");
             Console.Write("Digite o nome do fornecedor: ");
             string nomeFornecedor = Console.ReadLine();
-            Console.Write("Digite o Endereço: (Rua, Cidade, Estado, CEP)");
+            Console.Write("Digite o Endereço: (Rua, Cidade, CEP)");
             string endereco = Console.ReadLine();
             Console.Write("Digite o CNPJ: ");
             string cnpj = Console.ReadLine();
@@ -115,6 +126,18 @@ namespace Aula_21_OO
             bool recorrente = bool.Parse(Console.ReadLine());
             Console.Write("Digite o desconto: ");
             double desconto = double.Parse(Console.ReadLine());
+
+
+            Console.Write("Digite o Estado: (sigla, ex: SP, MS) ");
+            string estado = Console.ReadLine();
+
+            if (!Enum.TryParse(estado, out Estado estadoEnum))
+            { // try parse tenta converter o valor de uma string para um enum
+                Console.WriteLine("Estado inválido");
+                return;
+            }
+
+            string apelido = ApelidosPorEstado[estadoEnum];
 
             Fornecedor fornecedor = new Fornecedor
             {
@@ -126,8 +149,8 @@ namespace Aula_21_OO
                 {
                     Rua = endereco.Split(", ")[0],
                     Cidade = endereco.Split(", ")[1],
-                    Estado = endereco.Split(", ")[2],
-                    CEP = int.Parse(endereco.Split(", ")[3])
+                    Estado = estadoEnum,
+                    CEP = int.Parse(endereco.Split(", ")[2])
                 }
             };
 
@@ -197,7 +220,55 @@ namespace Aula_21_OO
             Console.WriteLine("Venda registrada com sucesso!");
         }
 
-        private static void ConsultarEstoque(Estoque estoque){}
-     
+        private static void ConsultarEstoque(Estoque estoque)
+        {
+            Console.Clear(); //Limpa a tela
+            Console.WriteLine("===== Consulta de Estoque =====");
+            if (estoque.Produtos != null)
+            {
+                for (int i = 0; i < estoque.Produtos.Length; i++)
+                {
+                    Console.WriteLine("Nome: " + estoque.Produtos[i].Nome);
+                    Console.WriteLine("Código: " + estoque.Produtos[i].Codigo);
+                    Console.WriteLine("Preço de Custo: " + estoque.Produtos[i].PrecoCusto);
+                    Console.WriteLine("Apelido: " + estoque.Produtos[i].Apelido);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Estoque vazio");
+            }
+        }
+
+        private static void GerarRelatorioVendas(List<Venda> vendas)
+        {
+            Console.Clear(); //Limpa a tela
+            Console.WriteLine("===== Relatório de Vendas =====");
+            if (vendas != null)
+            {
+                foreach (var venda in vendas)
+                {
+                    Console.WriteLine("Data: " + venda.Data);
+                    Console.WriteLine("Cliente: " + venda.Cliente.Nome);
+                    Console.WriteLine("Valor Total: " + venda.ValorTotal);
+                    Console.WriteLine("Forma de Pagamento: " + venda.FormaPagamento);
+                    Console.WriteLine("Parcelas: " + venda.Parcelas);
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nenhuma venda realizada");
+            }
+        }
+
+        private static Dictionary<Estado, string> ApelidosPorEstado =
+            new Dictionary<Estado, string>
+            {
+                {Estado.SP, "Chipa"},
+                {Estado.MS, "Chipa"},
+                {Estado.MG, "Pão de Queijo"},
+                {Estado.RJ, "Bixcoito"},
+                {Estado.BA, "Acarajé"},
+            };
     }
 }
