@@ -56,6 +56,8 @@ namespace Aula_21_OO
             } while (opcao != 6);
         }
 
+        
+
         public static void CadastrarCliente(List<Cliente> clientes)
         {
             Console.Write("Digite o nome do cliente: ");
@@ -81,5 +83,7 @@ namespace Aula_21_OO
                 }
             };
         }
+
+     
     }
 }
