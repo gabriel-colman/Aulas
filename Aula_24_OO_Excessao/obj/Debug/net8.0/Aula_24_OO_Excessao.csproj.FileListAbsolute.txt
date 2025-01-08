@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\bin\Debug\net8.0\Aula_24_OO_Excessao.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\bin\Debug\net8.0\Aula_24_OO_Excessao.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\bin\Debug\net8.0\Aula_24_OO_Excessao.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\bin\Debug\net8.0\Aula_24_OO_Excessao.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\bin\Debug\net8.0\Aula_24_OO_Excessao.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\refint\Aula_24_OO_Excessao.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\Aula_24_OO_Excessao.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_24_OO_Excessao\obj\Debug\net8.0\ref\Aula_24_OO_Excessao.dll
