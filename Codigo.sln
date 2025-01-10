@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_23_OO_Selados", "Aula_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_24_OO_Excessao", "Aula_24_OO_Excessao\Aula_24_OO_Excessao.csproj", "{A252F700-BD0A-4DC0-A421-4E7E47EDE3B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_25_OO_Struct", "Aula_25_OO_Struct\Aula_25_OO_Struct.csproj", "{7EAD59E3-EDC8-47CD-A189-D4B382A2A92B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +147,10 @@ Global
 		{A252F700-BD0A-4DC0-A421-4E7E47EDE3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A252F700-BD0A-4DC0-A421-4E7E47EDE3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A252F700-BD0A-4DC0-A421-4E7E47EDE3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAD59E3-EDC8-47CD-A189-D4B382A2A92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAD59E3-EDC8-47CD-A189-D4B382A2A92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAD59E3-EDC8-47CD-A189-D4B382A2A92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAD59E3-EDC8-47CD-A189-D4B382A2A92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

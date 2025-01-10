@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\bin\Debug\net8.0\Aula_25_OO_Struct.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\bin\Debug\net8.0\Aula_25_OO_Struct.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\bin\Debug\net8.0\Aula_25_OO_Struct.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\bin\Debug\net8.0\Aula_25_OO_Struct.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\bin\Debug\net8.0\Aula_25_OO_Struct.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\refint\Aula_25_OO_Struct.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\Aula_25_OO_Struct.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_25_OO_Struct\obj\Debug\net8.0\ref\Aula_25_OO_Struct.dll
