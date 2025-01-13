@@ -7,7 +7,8 @@ namespace Aula26_ManipulacaoArquivo
 {
     public class Exemplo6
     {
-        static void Main(string[] args)
+        // static void Main(string[] args)
+        static void Exe6()
         {
             string inicioParh = @"C:\Users\gabri\Desktop\teste1.txt";
             System.Console.WriteLine("Diretory Separator Char" + Path.DirectorySeparatorChar);
