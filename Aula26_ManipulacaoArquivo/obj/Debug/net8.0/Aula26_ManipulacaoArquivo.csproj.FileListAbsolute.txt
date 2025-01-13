@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\bin\Debug\net8.0\Aula26_ManipulacaoArquivo.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\bin\Debug\net8.0\Aula26_ManipulacaoArquivo.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\bin\Debug\net8.0\Aula26_ManipulacaoArquivo.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\bin\Debug\net8.0\Aula26_ManipulacaoArquivo.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\bin\Debug\net8.0\Aula26_ManipulacaoArquivo.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\refint\Aula26_ManipulacaoArquivo.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\Aula26_ManipulacaoArquivo.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula26_ManipulacaoArquivo\obj\Debug\net8.0\ref\Aula26_ManipulacaoArquivo.dll
