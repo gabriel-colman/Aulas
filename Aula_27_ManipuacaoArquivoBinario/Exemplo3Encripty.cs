@@ -11,7 +11,8 @@ namespace Aula_27_ManipuacaoArquivoBinario
     // Exemplo de encriptar uma arquivo txt
     public class Exemplo3Encripty
     {
-        static void Main(string[] args)
+        // static void Main(string[] args)
+        static void Exe()
         {
             string originalFile = "arquivo_original.txt";
             string encryptedFile = "arquivo_encriptado.txt";
