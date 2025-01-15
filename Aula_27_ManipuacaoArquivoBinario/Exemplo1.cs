@@ -7,7 +7,9 @@ namespace Aula_27_ManipuacaoArquivoBinario
 {
     public class Exemplo1
     {
-        static void Main(string [] args)
+        // Aqui foi gerado o arquivo binario com os dados
+        // static void Main(string [] args)
+        static void Exe1()
         {
             string filePath = "dados.bin"; // Caminho do arquivo
 

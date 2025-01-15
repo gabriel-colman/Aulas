@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula_27_ManipuacaoArquivoBinario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f09910dc9fd4891827a6d63700ad14c5fb64748")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+129825c4343ce960b256c6a8b94f562c90be9efe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula_27_ManipuacaoArquivoBinario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula_27_ManipuacaoArquivoBinario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
