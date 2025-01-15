@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\bin\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\bin\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\bin\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\bin\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\bin\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\refint\Aula_27_ManipuacaoArquivoBinario.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\Aula_27_ManipuacaoArquivoBinario.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_27_ManipuacaoArquivoBinario\obj\Debug\net8.0\ref\Aula_27_ManipuacaoArquivoBinario.dll
