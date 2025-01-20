@@ -1,0 +1,15 @@
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\bin\Debug\net8.0\Aula_28_Manipucao2.exe
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\bin\Debug\net8.0\Aula_28_Manipucao2.deps.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\bin\Debug\net8.0\Aula_28_Manipucao2.runtimeconfig.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\bin\Debug\net8.0\Aula_28_Manipucao2.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\bin\Debug\net8.0\Aula_28_Manipucao2.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.AssemblyInfoInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.AssemblyInfo.cs
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.sourcelink.json
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\refint\Aula_28_Manipucao2.dll
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.pdb
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\Aula_28_Manipucao2.genruntimeconfig.cache
+C:\Users\gabri\Documents\Aula\Digix\Codigo\Aula_28_Manipucao2\obj\Debug\net8.0\ref\Aula_28_Manipucao2.dll

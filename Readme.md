@@ -114,6 +114,44 @@ E a diferença entre elas. Juntamente cmo suas aplicações.
 
 Foi feito exemplos e exercicios de Agregação, Composição e Associação.
 
+## Aula 21 OO
+
+Foi mostrado a resolução do Desafio 3 que trabalhava com Orientação Objetos.
+
+## Aula 22 OO
+
+Foi ensinado o que é enum(enumerador), que é um tipo de dado que consiste em um conjunto de constantes nomeadas.
+E suas aplicações e relações com Orientação a Objetos.
+
+## Aula 23 OO
+
+Fui ensindo o que são e como aplicados classes e funções seladas, e o que são e como aplicados métodos virtuais.
+
+## Aula 24 OO
+
+Foi ensinado exceções e como aplicação do tratamento de exceções em C#.
+Como aplicar Try, Catch e Finally.
+
+## Aula 25 OO
+
+Foi ensinado structs(estruturas), que são tipos de valor que podem conter construtores, campos, métodos, índices, propriedades, operadores, eventos e tipos aninhados.
+E suas relações com classes como diferenças e semelhanças.
+
+## Aula 26 
+
+Foi ensinado manipulação de arquivos, como criar, ler, escrever e apagar arquivos em C#.
+Foi feito em arquivos txt.
+
+## Aula 27
+
+Foi ensinado manipulação de arquivos binários, como criar, ler, escrever e apagar arquivos binários em C#.
+Também foi ensinado a criptação de arquivos binários e de texto e a descriptação de arquivos binários e de texto.
+
+## Aula 28
+
+Foi ensinado o consumo de uma arquivo/informações de um arquivo JSON, e como manipular essas informações.
+E imprimir de forma organizada no arquivo txt.
+
 # Explicação da estrutura do projeto
 
 ### Entendendo o `Codigo.sln`
